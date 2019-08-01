@@ -13,3 +13,12 @@ Cluster anslysis of data from the Silicon On Insulator detector
   The data analysis folder contains the code in which several algorithms to clean the data ara implemented. We calculate and remove the pedestal, the common mode and noise. The output is a root file with the complete information about each pixel.
   
   The clustering folder contains the code used to cluster the data. It is designed to be run as a ROOT macro. The output is a pdf with histograms about the clusters and a root file with the same information.
+
+
+
+
+
+Daniel Scheres Firak
+Javier Suarez Sucunza
+
+Supervisor : Piotr Kapuska
